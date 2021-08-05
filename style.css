@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #E9EBEC;
+}
+.login_form{
+    padding: 30px;
+}
+#main{
+    padding: 80px;
+}
+#reg_main{
+    padding: 35px;
+}
+.form-group , button, h6{
+    width: 60%;
+    margin-left: 20%;
+}
+input{
+    border: none;
+}
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
